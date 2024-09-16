@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Anton 👋
+# Student at Volgograd State Technical University, Department of Informatics and Computer Science
 <!--
 **AntonInnovator/AntonInnovator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
