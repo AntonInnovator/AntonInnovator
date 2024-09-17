@@ -2,6 +2,13 @@
 ### Student at Volgograd State Technical University, Department of Informatics and Computer Science
 Contact me: [Mail](anton.stepanov.prg@icloud.com)
 
+<header align="center">
+  <h1>Hi there, I'm Anton 👋</h1>
+  <h3>Student at Volgograd State Technical University, Department of Informatics and Computer Science</h3>
+</header>
+
+
+
 <!--
 **AntonInnovator/AntonInnovator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
