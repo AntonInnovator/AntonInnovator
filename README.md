@@ -6,7 +6,7 @@
   <h3>Contact me:</h3>
   <a target="_blank" href="https://t.me/yokogawa_ejx530a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </body>
-<footer align="center">
+<footer>
   <h3>Languages and tools:</h3>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -15,7 +15,7 @@
 </footer>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AntonInnovator/AntonInnovator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
