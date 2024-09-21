@@ -1,7 +1,3 @@
-## Hi there, I'm Anton 👋
-### Student at Volgograd State Technical University, Department of Informatics and Computer Science
-Contact me: [Mail](anton.stepanov.prg@icloud.com)
-
 <header>
   <h1>Hi there, I'm Anton 👋</h1>
   <h3>Student at Volgograd State Technical University, Department of Informatics and Computer Science</h3>
@@ -10,6 +6,14 @@ Contact me: [Mail](anton.stepanov.prg@icloud.com)
   <h3>Contact me:</h3>
   <a target="_blank" href="https://t.me/yokogawa_ejx530a"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </body>
+<footer>
+  <h3>Languages and tools:</h3>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/st%20(Structured%20Text)-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="ST"/>&nbsp;&nbsp;&nbsp;&nbsp;
+</footer>
 
 
 
